@@ -1,0 +1,50 @@
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# business: http://ogp.me/ns/business#">
+
+    <title>{% if page.title == "Home" %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif -%}</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="description" content="{% if page.lead %}{{page.lead}}{% elsif page.description %}{{page.description}} {% else %}{{ site.description }} {% endif%}">
+    <meta name="keywords" content="{{ site.keywords }}">
+
+    <!-- og:tags -->
+    <meta property="og:title" content="{% if page.title %}{{page.title}} {% else %}{{ site.title }} {% endif%}">
+    <meta property="og:site_name" content="Sarbat Khalsa">
+    <meta property="og:url" content="{% if page.url %}{{ site.url }}/{{page.url}} {% else %}{{ site.url }} {% endif%}">
+    <meta property="og:image" content="{% if page.og-image %}{{site.url}}/img/icons/{{page.og-image}}{% else %}{{site.url}}/img/icons/logo.jpg{% endif%}">
+    <meta property="og:description" content="{% if page.lead %}{{page.lead}}{% elsif page.description %}{{page.description}} {% else %}{{ site.description }} {% endif%}">
+
+    <link rel="author" href="https://plus.google.com/u/0/101854032023679719892/posts"/>
+    <meta name="googlebot" content="all">
+    <meta name="robots" content="all,index,follow">
+    <meta name="revisit-after" content="1 days">
+    <meta name="dcterms.audience" content="global">
+
+    <!-- Twitter Meta -->
+     <meta name="twitter:card" content="summary" />
+     <meta name="twitter:site" content="@turbanclub" />
+     <meta name="twitter:title" content="Sarbat Khalsa • Mar 2, 1846 • The Morning Post, London" />
+     <meta name="twitter:description" content="The Government of the Sikhs, considered in its theory, may be termed a theocracy, but that chief possesses his power and authority by professing himself the servant of the Khálsá" />
+     <meta name="twitter:image" content="{% if page.og-image %}{{site.url}}/img/icons/{{page.og-image}}{% else %}{{site.url}}/img/icons/logo.jpg{% endif%}" />
+    <meta name="twitter:url" content="{% if page.url %}{{ site.url }}/{{page.url}} {% else %}{{ site.url }} {% endif%}" />
+
+    <!-- Apple Icons -->
+    <link rel="shortcut icon" href="/img/favicons/favicon.ico">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="/css/default.css" rel="stylesheet" type="text/css">
+     <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Droid+Serif|Raleway:400,300,500,600" rel="stylesheet" type="text/css">
+    <link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Bree+Serif' rel='stylesheet' type='text/css'>
+
+    <!-- IE8 support for HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+  </head>

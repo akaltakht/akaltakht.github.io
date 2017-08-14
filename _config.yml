@@ -1,0 +1,26 @@
+# Site settings
+title: "Sarbat Khalsa • Mar 2, 1846 • The Morning Post, London"
+email: info@pippallabs.com
+description: "The Government of the Sikhs, considered in its theory, may be termed a theocracy."
+keywords: "Sikh, Sikhs, Akalee, Sarbat Khalsa, ਪੰਜਾਬੀ, ਸਿੱਖ"
+url: "http://sarbatkhalsa.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:title
+
+destination: _deploy
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+gems:
+  - jekyll-sitemap
+  - jekyll-time-to-read
+
+social:
+  - title: twitter
+    url: https://twitter.com/turbanclub
+  - title: facebook
+    url: https://www.facebook.com/turbanclub

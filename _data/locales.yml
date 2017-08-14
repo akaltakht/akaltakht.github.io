@@ -1,0 +1,26 @@
+# Translation for all common words go here
+t:
+  en:
+    what: "What We Do"
+    portfolio: "Portfolio"
+    contact: "Contact"
+    subheading: "An information, technology and web design firm based in Surrey, BC."
+    client: "Client"
+    date: "Date"
+    services: "Services"
+    language: "ਪੰਜਾਬੀ"
+    language_url: "/pa"
+    apps: "iPhone Apps"
+    blog: "Blog"
+  pa:
+    what: "ਅਸੀਂ ਕੀ ਕਰਦੇ ਹਾਂ"
+    portfolio: "ਸਾਡਾ ਕੰਮ"
+    contact: "ਸੰਪਰਕ"
+    subheading: "ਸਰੀ, ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ ਵਿਖੇ ਸਥਿਤ ਇੱਕ ਸੂਚਨਾ, ਤਕਨੀਕ ਅਤੇ ਵੈੱਬ ਡਿਜ਼ਾਈਨ ਕੰਪਨੀ।"
+    client: "ਅਸਾਮੀ"
+    date: "ਮਿਤੀ"
+    services: "ਸੇਵਾਵਾਂ"
+    language: "English"
+    language_url: "/"
+    apps: "ਆਈਫੋਨ ਅੈਪਸ"
+    blog: "ਬਲੌਗ"
