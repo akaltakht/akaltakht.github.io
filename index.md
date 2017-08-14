@@ -7,6 +7,7 @@ published: true
 comments: false
 tags: Gurmukhi, Punjabi, Sikhs, khalsa
 image: /img/posts/sarbat_khalsa.png
+og-image: /img/posts/akalees.png
 ---
 
 At the present moment when the Tower guns have pealed forth their thunder in commemoration of the magnitude and importance of the late sanguinary victory in India, it may not be either inappropriate or uninteresting to our readers ─many of whom are, no doubt, personally interested in this subject─ to give a slight sketch of the military usages, manners, and character of the great warriors of the East, the Sikhs, who consider the profession of arms the religious duty of every individual.

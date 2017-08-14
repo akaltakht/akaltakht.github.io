@@ -15,6 +15,7 @@
     <meta property="og:url" content="{% if page.url %}{{ site.url }}/{{page.url}} {% else %}{{ site.url }} {% endif%}">
     <meta property="og:image" content="{% if page.og-image %}{{site.url}}/img/icons/{{page.og-image}}{% else %}{{site.url}}/img/icons/logo.jpg{% endif%}">
     <meta property="og:description" content="{% if page.lead %}{{page.lead}}{% elsif page.description %}{{page.description}} {% else %}{{ site.description }} {% endif%}">
+    <meta property="og:type" content="article" />
 
     <link rel="author" href="https://plus.google.com/u/0/101854032023679719892/posts"/>
     <meta name="googlebot" content="all">
