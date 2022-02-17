@@ -61,11 +61,11 @@
   />
   <meta
     name="twitter:image"
-    content="{% if page.image %}{{site.url}}/{{page.image}}{% endif%}"
+    content="{% if page.og-image %}{{site.url}}{{page.og-image}}{% endif%}"
   />
   <meta
     name="twitter:url"
-    content="{% if page.url %}{{ site.url }}/{{page.url}} {% else %}{{ site.url }} {% endif%}"
+    content="{% if page.url %}{{ site.url }}{{page.url}} {% else %}{{ site.url }} {% endif%}"
   />
 
   <!-- Apple Icons -->
