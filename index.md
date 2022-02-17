@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The Sikhs & Sarbat Khalsa"
+title: "The Sikhs & Gurmata"
+sutitle: "Gurmata was the decision making process of 19th century Sikhism."
 lead: "The Morning Post, London."
 date: 1846-03-02 10:03:45 -0800
 published: true
@@ -11,7 +12,6 @@ og-image: /img/posts/akalees.png
 ---
 
 At the present moment when the Tower guns have pealed forth their thunder in commemoration of the magnitude and importance of the late sanguinary victory in India, it may not be either inappropriate or uninteresting to our readers ─many of whom are, no doubt, personally interested in this subject─ to give a slight sketch of the military usages, manners, and character of the great warriors of the East, the Sikhs, who consider the profession of arms the religious duty of every individual.
-
 
 <blockquote>The Government of the Sikhs, considered in its theory, may be termed a theocracy. They obey a temporal chief, it is true, but that chief possesses his power and authority by professing himself the servant of the Khálsá,</blockquote> a Government which can only be said to act in times of great public emergency, through the means of a great national council, of which any chief is a member, and which is supposed to deliberate and resolve under the immediate inspiration and impulse of an invisible being, who they believe always watches over the interest of the commonweal.
 
@@ -24,7 +24,7 @@ When a Gúrú-mátá, a great national council, is called, as it always is when 
 
 <blockquote> When the chiefs meet on this occasion it is concluded that all private animosities cease, and that every man sacrifices his personal feelings at the shrine of the general good, and, actuated by principles of pure patriotism, thinks of nothing but the interest of the religion and common wealth  to which he belongs.</blockquote>
 
-When the chiefs and principal leaders are seated, the Adi Grant’h and Dalama Padshah Ka Grant’h [sic] are placed before them. They all bend their hands before the Scriptures and exclaim, “Wa! Gúrúji Ki Fatch.”  A great quantity of cakes, made of wheat, butter, and sugar, are then placed before the volumes of the Sacred Writings, and covered with a cloth. These holy cakes, which are, in commemoration of the injunction of Navac, to eat, and give others to eat, next receive the salutation of the assembly, who then rise, and the Arabs[sic] pray aloud, while the musicians play. The Acales, when the prayers are finished, desire the council to be seated. They sit down, and the cakes being uncovered, are eaten by all classes of Sikhs. The Acales then exclaim, “Sirdirs (chiefs), this is a Gúrú-mátá,” on which prayers are again said aloud. The chiefs after this sit closer, and say to each other, “This sacred Grant’h, is betwixt us, let us swear by our Scriptures to forget all internal disputes and to be united.” This moment of religious fervour and ardent patriotism is taken to reconcile all animosities. They then proceed to consider the danger with which they are threatened, to settle the best plans for adverting it, and to choose the generals who are to lead their Dal-Khalsa, or army of the State, against the common enemy.
+When the chiefs and principal leaders are seated, the Adi Grant’h and Dalama Padshah Ka Grant’h [sic] are placed before them. They all bend their hands before the Scriptures and exclaim, “Wa! Gúrúji Ki Fatch.” A great quantity of cakes, made of wheat, butter, and sugar, are then placed before the volumes of the Sacred Writings, and covered with a cloth. These holy cakes, which are, in commemoration of the injunction of Navac, to eat, and give others to eat, next receive the salutation of the assembly, who then rise, and the Arabs[sic] pray aloud, while the musicians play. The Acales, when the prayers are finished, desire the council to be seated. They sit down, and the cakes being uncovered, are eaten by all classes of Sikhs. The Acales then exclaim, “Sirdirs (chiefs), this is a Gúrú-mátá,” on which prayers are again said aloud. The chiefs after this sit closer, and say to each other, “This sacred Grant’h, is betwixt us, let us swear by our Scriptures to forget all internal disputes and to be united.” This moment of religious fervour and ardent patriotism is taken to reconcile all animosities. They then proceed to consider the danger with which they are threatened, to settle the best plans for adverting it, and to choose the generals who are to lead their Dal-Khalsa, or army of the State, against the common enemy.
 
 <div class="thumbnail with-caption">
   <img src="/img/posts/Sarbat-Khalsa-gallery-large.jpg">
@@ -44,6 +44,3 @@ It would be difficult, if not impracticable, to ascertain the number of armies w
   <img src="/img/posts/turbanedMan.jpg">
   <p>The Turbaned Man<small> <a href="https://twitter.com/turbanclub">Turban Club</a></small></p>
 </div>
-
-
-
