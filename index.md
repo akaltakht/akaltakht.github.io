@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Sikhs & Gurmata"
+title: "The Sikhs & The Gurmata"
 sutitle: "Gurmata was the decision making process of 19th century Sikhism."
 lead: "The Morning Post, London."
 date: 1846-03-02 10:03:45 -0800
 published: true
 comments: false
-tags: Gurmukhi, Punjabi, Sikhs, khalsa
+tags: Gurmukhi, Punjabi, Sikhs, Khalsa
 image: /img/posts/sarbat_khalsa.png
 og-image: img/posts/gurmata.png
 ---
