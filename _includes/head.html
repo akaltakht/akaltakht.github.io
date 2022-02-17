@@ -31,7 +31,7 @@
   />
   <meta
     property="og:image"
-    content="{% if page.og-image %}{{site.url}}/img/icons/{{page.og-image}}{% else %}{{site.url}}/img/icons/logo.jpg{% endif%}"
+    content="{% if page.og-image %}{{site.url}}/{{page.og-image}}{% else %}{{site.url}}/img/icons/logo.jpg{% endif%}"
   />
   <meta
     property="og:description"
@@ -61,7 +61,7 @@
   />
   <meta
     name="twitter:image"
-    content="{% if page.og-image %}{{site.url}}{{page.og-image}}{% endif%}"
+    content="{% if page.og-image %}{{site.url}}/{{page.og-image}}{% endif%}"
   />
   <meta
     name="twitter:url"
