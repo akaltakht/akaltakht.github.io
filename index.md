@@ -44,3 +44,6 @@ It would be difficult, if not impracticable, to ascertain the number of armies w
   <img src="/img/posts/turbanedMan.jpg">
   <p>The Turbaned Man<small> <a href="https://twitter.com/turbanclub">Turban Club</a></small></p>
 </div>
+
+<div id="storyian-widget" data-token="eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo5LCJ1c2VybmFtZSI6ImFydmluZGVyX2thbmciLCJleHAiOjE3NDc0MDQyODh9.RWSuHgHTP2IyGlsmTu74tGDhXtXTLDIWHi54hebyGZg"></div>
+<script src="https://storyian.com/static/widget.js"></script>
